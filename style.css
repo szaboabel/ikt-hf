@@ -1,0 +1,68 @@
+#cim {
+    width: 960px;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+
+#rovinj {
+    font-size: xx-large;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    font-size: x-large;
+}
+
+nav ul li  {
+    display: inline-block;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    border: 2px black solid;
+}
+
+#a {
+    background-color: blue;
+    color: black
+}
+
+#bekezdes1 {
+    font-size: larger;
+    text-align: justify;
+}
+
+#bekezdes2 {
+    font-size: large;
+    text-align: justify;
+    font-weight: bold;
+}
+
+#kep1 {
+    margin: auto;
+    text-align: center;
+}
+
+#nevezetessegek {
+    text-align: center;
+}
+
+.nevezetessegek {
+    text-align: center;
+}
+
+#strandok {
+    text-align: center;
+}
+
+#card {
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    background-color: blue;
+}
